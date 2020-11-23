@@ -1,0 +1,28 @@
+{
+  "name": "webpack-guides",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsv6d/webpack-guides.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmsv6d/webpack-guides/issues"
+  },
+  "homepage": "https://github.com/jmsv6d/webpack-guides#readme",
+  "devDependencies": {
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
