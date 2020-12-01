@@ -10,6 +10,7 @@
     "start": "webpack serve --config webpack.config.js --open 'Google Chrome'",
     "server": "node server.js"
   },
+  "sideEffects": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jmsv6d/webpack-guides.git"
